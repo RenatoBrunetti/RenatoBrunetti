@@ -12,8 +12,6 @@ If you want to see more about my professional information, please take a look at
 
 <br>
 
----
-
 ## Software Developer Skills 💪
 
 <br>
@@ -55,8 +53,6 @@ If you want to see more about my professional information, please take a look at
 > Serverless
 
 <br>
-
----
 
 ## Contact 💬
 
