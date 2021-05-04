@@ -16,8 +16,6 @@ If you want to see more about my professional information, please take a look at
 
 ## Software Developer Skills 💪
 
----
-
 <br>
 
 > **Main Stack:**<br>
@@ -61,8 +59,6 @@ If you want to see more about my professional information, please take a look at
 ---
 
 ## Contact 💬
-
----
 
 <br>
 
