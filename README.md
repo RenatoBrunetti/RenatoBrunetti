@@ -2,9 +2,9 @@
 
 Hello world! 🌎<br>
 
-My name is **Renato Brunetti** and I'm a Software Engineer with over 10 years of experience and passionate about technology.
+My name is **Renato Brunetti** and I'm a **Software Developer** with over 10 years of experience and passionate about technology.
 
-And I'm currently working at **[Devires](https://devires.com.br/)** as a full-time **Senior Back-End Developer** for a Health-Tech company in São Paulo.
+And I'm currently working at **[Devires](https://devires.com.br/)** as a full-time **Senior Back-End Developer** for a Health-Tech company in São Paulo. I'm developing and managing a BFF that works between a mobile application and a private API, and also connecting lots of differents external services with the best performance and safety.
 
 If you want to see more about my professional information, please take a look at my LinkedIn page right here. 👇<br>
 
@@ -47,7 +47,7 @@ If you want to see more about my professional information, please take a look at
 > PHP |
 > Linux |
 > MVC |
-> Clean Architecture
+> Clean Architecture |
 > TDD |
 > DDD |
 > Serverless
