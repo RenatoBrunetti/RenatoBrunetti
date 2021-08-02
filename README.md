@@ -2,9 +2,9 @@
 
 Hello world! 🌎<br>
 
-My name is **Renato Brunetti** and I'm a **Software Developer** with over 10 years of experience and passionate about technology.
+My name is **Renato Brunetti** and I'm a seasoned **Software Engineer** with 10+ years of experience and passionate about technology.
 
-And I'm currently working at **[Devires](https://devires.com.br/)** as a full-time **Senior Back-End Developer** for a Health-Tech company in São Paulo. I'm developing and managing a BFF that works between a mobile application and a private API, and also connecting lots of differents external services with the best performance and safety.
+I'm currently working at **[Devires](https://devires.com.br/)** as a full-time **Senior Software Engineer** for a Health-Tech company in São Paulo. I'm developing and managing a BFF service supporting a mobile application, a private API, and also connecting lots of differents external partners and services with the best performance and safety.
 
 If you want to see more about my professional information, please take a look at my LinkedIn page right here. 👇<br>
 
@@ -14,10 +14,9 @@ If you want to see more about my professional information, please take a look at
 
 ## Software Developer Skills 💪
 
-<br>
-
 > **Main Stack:**<br>
 > Node.js |
+> Javascript |
 > TypeScript |
 > GraphQL |
 > Jest
@@ -26,7 +25,8 @@ If you want to see more about my professional information, please take a look at
 > React |
 > Next |
 > SASS |
-> HTML
+> HTML |
+> CSS
 
 > **Database:**<br>
 > MySQL |
@@ -37,26 +37,25 @@ If you want to see more about my professional information, please take a look at
 > **Cloud:**<br>
 > AWS |
 > Azure |
-> GCP
+> GCP |
+
+> **Devops:**<br>
+> Docker |
+> Kubernetes
 
 > **Other:**<br>
-> Docker |
-> Firebase |
-> Kubernetes |
-> ORM |
-> PHP |
 > Linux |
+> Firebase |
+> PHP |
+> Serverless |
 > MVC |
 > Clean Architecture |
-> TDD |
-> DDD |
-> Serverless
+> ORM (Typeorm and Sequelize) |
+> TDD and DDD
 
 <br>
 
 ## Contact 💬
-
-<br>
 
 **Author:** Renato Brunetti <br>
 **Website:** [renatobrunetti.com.br][website-url] <br>
