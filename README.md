@@ -62,9 +62,8 @@ If you want to see more about my professional information, please take a look at
 **E-mail:** [development@renatobrunetti.com.br][email-url] <br>
 **Social:** [LinkedIn](https://linkedin.com/in/RenatoCarapiaBrunetti/)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/RenatoCarapiaBrunetti/
+<!-- Link & Image -->
 [website-url]: https://www.renatobrunetti.com.br
 [email-url]: mailto:development@renatobrunetti.com.br
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/RenatoCarapiaBrunetti/
