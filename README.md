@@ -60,7 +60,8 @@ If you want to see more about my professional information, please take a look at
 **Author:** Renato Brunetti <br>
 **Website:** [renatobrunetti.com.br][website-url] <br>
 **E-mail:** [development@renatobrunetti.com.br][email-url] <br>
-**Social:** [LinkedIn](https://linkedin.com/in/RenatoCarapiaBrunetti/)
+**Social:** [LinkedIn](https://linkedin.com/in/RenatoCarapiaBrunetti/) |
+[Codesignal](https://app.codesignal.com/profile/renatobrunetti)
 
 <!-- Link & Image -->
 [website-url]: https://www.renatobrunetti.com.br
