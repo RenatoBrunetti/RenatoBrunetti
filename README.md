@@ -2,9 +2,9 @@
 
 Hello world! 🌎<br>
 
-My name is **Renato Brunetti** and I'm a seasoned **Software Engineer** with 10+ years of experience and passionate about technology.
+My name is **Renato Brunetti** and I'm a seasoned **Software Engineer** with 12+ years of experience and passionate about technology.
 
-I'm currently working at **[Devires](https://devires.com.br/)** as a full-time **Senior Software Engineer** for a Health-Tech company in São Paulo. I'm developing and managing a BFF service supporting a mobile application, a private API, and also connecting lots of differents external partners and services with the best performance and safety.
+I'm currently working remotely at **[Méliuz](https://meliuz.com.br/)** as a full-time **Senior Software Engineer**.
 
 If you want to see more about my professional information, please take a look at my LinkedIn page right here. 👇<br>
 
@@ -31,6 +31,7 @@ If you want to see more about my professional information, please take a look at
 > **Database:**<br>
 > MySQL |
 > SQL Server |
+> Postgre SQL |
 > MongoDB |
 > Redis
 
@@ -51,7 +52,8 @@ If you want to see more about my professional information, please take a look at
 > MVC |
 > Clean Architecture |
 > ORM (Typeorm and Sequelize) |
-> TDD and DDD
+> TDD and DDD |
+> Scrum, Kanban, OKR
 
 <br>
 
