@@ -2,9 +2,9 @@
 
 Hello world! 🌎<br>
 
-My name is **Renato Brunetti** and I'm a seasoned **Software Engineer** with 12+ years of experience and passionate about technology.
+My name is **Renato Brunetti** and I'm a Brazilian 🇧🇷 seasoned **Software Engineer** with 12+ years of experience and completely passionate about technology and how things happen.
 
-I'm currently working remotely at **[Méliuz](https://meliuz.com.br/)** as a full-time **Senior Software Engineer**.
+I'm currently working remotely at **[Méliuz](https://meliuz.com.br/)** as a full-time **Senior Software Engineer Specialist I**.
 
 If you want to see more about my professional information, please take a look at my LinkedIn page right here. 👇<br>
 
@@ -12,21 +12,31 @@ If you want to see more about my professional information, please take a look at
 
 <br>
 
-## Software Developer Skills 💪
+## My Software Engineer Skills 💪
+
+👜 The main tools in my suitcase.
+
+<br>
 
 > **Main Stack:**<br>
 > Node.js |
 > Javascript |
 > TypeScript |
+> React |
+> React native |
+> Express |
 > GraphQL |
 > Jest
 
-> **Front-End:**<br>
+> **Web Front-End:**<br>
 > React |
 > Next |
 > SASS |
 > HTML |
 > CSS
+
+> **Mobile Front-End:**<br>
+> React Native
 
 > **Database:**<br>
 > MySQL |
@@ -37,22 +47,20 @@ If you want to see more about my professional information, please take a look at
 
 > **Cloud:**<br>
 > AWS |
-> Azure |
-> GCP |
+> Azure
 
 > **Devops:**<br>
 > Docker |
 > Kubernetes
 
 > **Other:**<br>
+> Mac |
 > Linux |
-> Firebase |
 > PHP |
+> Python |
 > Serverless |
-> MVC |
-> Clean Architecture |
 > ORM (Typeorm and Sequelize) |
-> TDD and DDD |
+> TDD |
 > Scrum, Kanban, OKR
 
 <br>
@@ -66,6 +74,7 @@ If you want to see more about my professional information, please take a look at
 [Codesignal](https://app.codesignal.com/profile/renatobrunetti)
 
 <!-- Link & Image -->
+
 [website-url]: https://www.renatobrunetti.com.br
 [email-url]: mailto:development@renatobrunetti.com.br
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
