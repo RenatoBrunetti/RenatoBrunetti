@@ -13,7 +13,6 @@ If you want to see more about my professional information, please take a look at
 <br>
 
 ## My Software Engineer Skills 💪
-
 👜 The main tools in my suitcase.
 
 <br>
@@ -82,8 +81,7 @@ If you want to see more about my professional information, please take a look at
 <br>
 
 ## Contact 💬
-
-📥 If you want to talk to me, you can choose here the best option.
+📥 Let's talk?
 
 <br>
 
