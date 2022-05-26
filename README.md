@@ -87,11 +87,11 @@ If you want to see more about my professional information, please take a look at
 
 <br>
 
-**Author:** Renato Brunetti <br>
-**Website:** [renatobrunetti.com.br][website-url] <br>
-**E-mail:** [development@renatobrunetti.com.br][email-url] <br>
-**Social:** [LinkedIn](https://linkedin.com/in/RenatoCarapiaBrunetti/) |
-[Codesignal](https://app.codesignal.com/profile/renatobrunetti)
+**Author:** Renato Brunetti<br>
+**Website:** [renatobrunetti.com.br][website-url]<br>
+**E-mail:** [development@renatobrunetti.com.br][email-url]<br>
+**Social:** [LinkedIn](https://linkedin.com/in/RenatoCarapiaBrunetti/) | [Twitter](https://twitter.com/RenatoBrunetti) | [Instagram](https://instagram.com/RenatoBrunetti)<br>
+**Challenges:** [Codesignal](https://app.codesignal.com/profile/renatobrunetti)
 
 <!-- Link & Image -->
 
