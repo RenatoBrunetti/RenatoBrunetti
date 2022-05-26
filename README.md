@@ -2,7 +2,7 @@
 
 Hello world! 🌎<br>
 
-My name is **Renato Brunetti** and I'm a Brazilian 🇧🇷 seasoned **Software Engineer** with 12+ years of experience and completely passionate about technology and how things happen.
+My name is **Renato Brunetti** and I'm a Brazilian 🇧🇷 seasoned **Software Engineer** with 12+ years of experience and completely passionate about technology, people and how things happen.
 
 I'm currently working remotely at **[Méliuz](https://meliuz.com.br/)** as a full-time **Senior Software Engineer Specialist I**.
 
@@ -20,52 +20,72 @@ If you want to see more about my professional information, please take a look at
 
 > **Main Stack:**<br>
 > Node.js |
-> Javascript |
 > TypeScript |
 > React |
-> React native |
+> React Native |
+> Jest
+
+---
+
+> **Back-End:**<br>
+> Node.js |
+> Typescript |
+> Python |
+> PHP |
+> RabbitMQ |
 > Express |
 > GraphQL |
-> Jest
+> gRPC
 
 > **Web Front-End:**<br>
 > React |
 > Next |
 > SASS |
-> HTML |
-> CSS
+> Tailwind |
+> HTML
 
 > **Mobile Front-End:**<br>
-> React Native
+> React Native |
+> Expo
 
 > **Database:**<br>
+> Postgre SQL |
 > MySQL |
 > SQL Server |
-> Postgre SQL |
-> MongoDB |
-> Redis
+> Redis |
+> MongoDB
 
 > **Cloud:**<br>
 > AWS |
 > Azure
 
-> **Devops:**<br>
-> Docker |
-> Kubernetes
+> **Observability:**<br>
+> Azure App Insights |
+> Grafana |
+> Amplitude |
+> Datadog
+
+> **Agile:**<br>
+> Scrum |
+> Kanban |
+> OKR
 
 > **Other:**<br>
-> Mac |
-> Linux |
-> PHP |
-> Python |
-> Serverless |
-> ORM (Typeorm and Sequelize) |
-> TDD |
-> Scrum, Kanban, OKR
+> Git |
+> Docker |
+> CI/CD |
+> ORM |
+> Design System |
+> Styled System |
+> Styled Components
 
 <br>
 
 ## Contact 💬
+
+📥 If you want to talk to me, you can choose here the best option.
+
+<br>
 
 **Author:** Renato Brunetti <br>
 **Website:** [renatobrunetti.com.br][website-url] <br>
