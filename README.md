@@ -2,9 +2,15 @@
 
 Hello world! 🌎<br>
 
-My name is **Renato Brunetti** and I'm a Brazilian 🇧🇷 seasoned **Software Engineer** with 12+ years of experience and completely passionate about technology, people and how things happen.
+My name is **Renato Brunetti** and I'm a Brazilian 🇧🇷 **Software Developer** with 14+ years of experience in web development.
 
-I'm currently working remotely at **[Méliuz](https://meliuz.com.br/)** as a full-time **Senior Software Engineer Specialist I**.
+I've been working with different tech stacks and on different industries over the years and I'm always ready to learn new stuff.
+
+Communication has become my main skill, I treat everyone with respect and empathy. I have always been recognized for the ability to establish efficient and respectful communications with everyone, whether in a professional or non-professional environment.
+
+I am passionate about technology and helping to make people's lives better with it.
+
+<br>
 
 If you want to see more about my professional information, please take a look at my LinkedIn page right here. 👇<br>
 
