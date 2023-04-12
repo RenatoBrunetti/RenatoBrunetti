@@ -75,13 +75,11 @@ If you want to see more about my professional information, please take a look at
 
 **Author:** Renato Brunetti<br>
 **Website:** [renatobrunetti.com.br][website-url]<br>
-**E-mail:** [development@renatobrunetti.com.br][email-url]<br>
 **Social:** [LinkedIn](https://linkedin.com/in/RenatoCarapiaBrunetti/) | [Twitter](https://twitter.com/RenatoBrunetti) | [Instagram](https://instagram.com/RenatoBrunetti)<br>
 **Challenges:** [Codesignal](https://app.codesignal.com/profile/renatobrunetti) | [Leetcode](https://leetcode.com/RenatoBrunetti/) | [HackerRank](https://www.hackerrank.com/RenatoBrunetti)
 
 <!-- Link & Image -->
 
 [website-url]: https://www.renatobrunetti.com.br
-[email-url]: mailto:development@renatobrunetti.com.br
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/RenatoCarapiaBrunetti/
