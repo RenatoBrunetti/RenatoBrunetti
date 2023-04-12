@@ -2,13 +2,13 @@
 
 Hello world! 🌎<br>
 
-My name is **Renato Brunetti** and I'm a Brazilian 🇧🇷 **Software Developer** with 14+ years of experience in web development.
+My name is **Renato Brunetti** and I'm a Brazilian 🇧🇷 **Software Engineer** with 10+ years of experience in complete software development life cycle (SDLC) including System Requirements Collection, Architecture, Design, Coding, Refactor, Development and Testing.
 
-I've been working with different tech stacks and on different industries over the years and I'm always ready to learn new stuff.
+In addition, I have a great experience working in some different companies and industries in which I designed and developed a lot of features, architectures and services from scratch.
 
-Communication has become my main skill, I treat everyone with respect and empathy. I have always been recognized for the ability to establish efficient and respectful communications with everyone, whether in a professional or non-professional environment.
+I'm always ready to learn new stuff regardless of the subject, hard skills, soft skills, and whatever is necessary.
 
-I am passionate about technology and helping to make people's lives better with it.
+I'm passionate about technology and its impact on people's lives on a daily basis.
 
 <br>
 
@@ -19,7 +19,7 @@ If you want to see more about my professional information, please take a look at
 <br>
 
 ## My Software Engineer Skills 💪
-👜 The main tools in my suitcase.
+👜 Let's check my suitcase.
 
 <br>
 
@@ -28,30 +28,29 @@ If you want to see more about my professional information, please take a look at
 > TypeScript |
 > React |
 > React Native |
-> Jest
+> Jest |
+> Docker |
+> SQL & NoSQL |
+> AWS & Azure
 
 ---
 
 > **Back-End:**<br>
-> Node.js |
-> Typescript |
-> Python |
 > PHP |
+> Python |
 > RabbitMQ |
-> Express |
-> GraphQL |
-> gRPC
+> Express, GraphQL, gRPC |
+> ORM (Prisma & Sequelize) |
+> WebSockets
 
-> **Web Front-End:**<br>
-> React |
-> Next |
+> **Front-End:**<br>
+> Next.js |
+> Vite |
+> Expo |
 > SASS |
 > Tailwind |
-> HTML
-
-> **Mobile Front-End:**<br>
-> React Native |
-> Expo
+> HTML & CSS |
+> Design System, Styled System, Styled Components
 
 > **Database:**<br>
 > Postgre SQL |
@@ -60,29 +59,12 @@ If you want to see more about my professional information, please take a look at
 > Redis |
 > MongoDB
 
-> **Cloud:**<br>
-> AWS |
-> Azure
-
-> **Observability:**<br>
-> Azure App Insights |
-> Grafana |
-> Amplitude |
-> Datadog
-
-> **Agile:**<br>
-> Scrum |
-> Kanban |
-> OKR
-
 > **Other:**<br>
 > Git |
-> Docker |
-> CI/CD |
-> ORM |
-> Design System |
-> Styled System |
-> Styled Components
+> Scrum & Kanban |
+> CI/CD (Jenkins, Github Actions, CircleCI) |
+> Microservices
+
 
 <br>
 
@@ -95,7 +77,7 @@ If you want to see more about my professional information, please take a look at
 **Website:** [renatobrunetti.com.br][website-url]<br>
 **E-mail:** [development@renatobrunetti.com.br][email-url]<br>
 **Social:** [LinkedIn](https://linkedin.com/in/RenatoCarapiaBrunetti/) | [Twitter](https://twitter.com/RenatoBrunetti) | [Instagram](https://instagram.com/RenatoBrunetti)<br>
-**Challenges:** [Codesignal](https://app.codesignal.com/profile/renatobrunetti) | [Leetcode](https://leetcode.com/RenatoBrunetti/)
+**Challenges:** [Codesignal](https://app.codesignal.com/profile/renatobrunetti) | [Leetcode](https://leetcode.com/RenatoBrunetti/) | [HackerRank](https://www.hackerrank.com/RenatoBrunetti)
 
 <!-- Link & Image -->
 
