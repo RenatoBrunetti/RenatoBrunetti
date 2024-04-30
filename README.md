@@ -10,7 +10,7 @@ That said, I'd say that I'm an avid learner and a problem-solver with a strong f
 
 ## Professional
 
-<header style="display: flex; background-color: #ffffff; margin: 0; padding: 0; justify-content: center;">
+<header style="display: block; width: 100%; height: 120px; background-color: #ffffff; text-align: center;">
   <img src="./zaya.jpg" style="height: 120px"/>
 </header><br>
 
