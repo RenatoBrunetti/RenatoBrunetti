@@ -10,8 +10,8 @@ That said, I'd say that I'm an avid learner and a problem-solver with a strong f
 
 ## Professional
 
-<header style="display: block; width: 100%; height: 120px; background-color: #ffffff; text-align: center;">
-  <img src="./zaya.jpg" style="height: 120px"/>
+<header align="center" bgcolor="white">
+  <img src="./zaya.jpg" width="480px"/>
 </header><br>
 
 I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to establish a new standard of affordable and human-centered care, beyond the traditional hospital setting. 🏥<br>
