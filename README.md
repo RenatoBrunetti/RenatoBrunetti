@@ -13,12 +13,15 @@ In terms of professional skills, I consider myself a problem-solver with a very 
 I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to establish a new standard of affordable and human-centered care, beyond the traditional hospital setting.<br>
 
 | ![Zaya](zaya-care-logo.jpg) | Zaya champions the voices of private practices in an industry dominated by large health conglomerates and growing administrative overhead. |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| :-------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------- |
+
+| Our mission is to establish a new standard of affordable and whole-body care, beyond the traditional hospital setting. We empower independently-owned practices to accept and work with insurance in a profitable way, starting with Dietitians, Physical Therapists, Occupational Therapists and Acupuncturists. |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 
 Please take a look at my LinkedIn page for further professional information.<br>
-[![LinkedIn][linkedin-icon]][linkedin-url]<br>
+[![LinkedIn][linkedin-icon]][linkedin-url]<br><br>
 
 ## Tech Stuff
 
