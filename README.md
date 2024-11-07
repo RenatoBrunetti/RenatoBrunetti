@@ -14,7 +14,7 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
 
 <table style="border-collapse:collapse;">
   <tr>
-    <td><img src="./zaya-care-logo.jpg" /></td>
+    <td><img src="./zaya-care-logo.jpg" width=100 /></td>
     <td>Zaya champions the voices of private practices in an industry dominated by large health conglomerates and growing administrative overhead.</td>
   </tr>
   <tr>
