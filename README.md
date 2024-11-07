@@ -10,9 +10,9 @@ In terms of professional skills, I consider myself a problem-solver with a very 
 
 <hr>
 
-I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to empower private practices to thrive by accepting insurance at rewarding terms.<br>
+I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to empower private practices to thrive by accepting insurance at rewarding terms.<br><br>
 
-<table style="border-collapse:collapse;">
+<table style="border-collapse:collapse; border: dashed 1px white;">
   <tr>
     <td><img src="./zaya-care-logo.jpg" width=80 /></td>
     <td>Zaya champions the voices of private practices in an industry dominated by large health conglomerates and growing administrative overhead.</td>
