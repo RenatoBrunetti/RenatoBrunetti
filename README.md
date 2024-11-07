@@ -8,9 +8,9 @@ I believe in continuous learning as a lifestyle and I love learning about many d
 
 In terms of professional skills, I consider myself a problem-solver with a very strong foundation in Javascript, Typescript, Node.js, React, SQL, and many other technologies, programming languages, frameworks, and tools. I have experience in diverse tech teams and industries covering Backend, Frontend, Data, and DevOps.
 
-<hr><br>
+<p style="text-align: center;">- ✦ -</p>
 
-I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to establish a new standard of affordable and human-centered care, beyond the traditional hospital setting.<br>
+I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to empower private practices to thrive by accepting insurance at rewarding terms.<br>
 
 <table style="border-collapse:collapse;">
   <tr>
@@ -20,11 +20,13 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
   <tr>
     <td colspan="2">Our mission is to establish a new standard of affordable and whole-body care, beyond the traditional hospital setting. We empower independently-owned practices to accept and work with insurance in a profitable way, starting with Dietitians, Physical Therapists, Occupational Therapists and Acupuncturists.</td>
   </tr>
-</table>
+</table><br>
 
-[Please take a look at my LinkedIn page for further professional information.](https://linkedin.com/in/RenatoCarapiaBrunetti/)
+<a href="https://linkedin.com/in/RenatoCarapiaBrunetti/">Please take a look at my LinkedIn page for further professional information</a>
 
-## Tech Stuff
+<p style="text-align: center;">- ✦ -</p>
+
+<!-- ## Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -73,44 +75,47 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Learning
+<hr>
 
-[![Alura][alura-icon]][alura-url]
-[![Alura Língua][alura-lingua-icon]][alura-lingua-url]
-[![Duolingo][duolingo-icon]][duolingo-url]
+### Learning
 
-## Code Challenges
+> [Alura](alura-url)<br>
 
-[![Codesignal][codesignal-icon]][codesignal-url]
-[![HackerRank][hackerrank-icon]][hackerrank-url]
-[![Leetcode][leetcode-icon]][leetcode-url]
+> [Alura Língua](alura-lingua-url)<br>
 
-## Contact & Social
+> [Duolingo](duolingo-url)
 
-[![Gmail][gmail-icon]][gmail-url]
-[![LinkedIn][linkedin-icon]][linkedin-url]
-[![Instagram][instagram-icon]][instagram-url]
-[![X][x-icon]][x-url]
+<hr>
+
+### Code Challenges
+
+> [Codesignal](codesignal-url)<br>
+
+> [HackerRank](hackerrank-url)<br>
+
+> [Leetcode](leetcode-url)
+
+<hr>
+
+### Contact & Social
+
+> [E-mail](email-url)<br>
+
+> [LinkedIn](linkedin-url)<br>
+
+> [Instagram](instagram-url)<br>
+
+> [X](x-url) -->
 
 <!-- Link & Image -->
 
-[linkedin-icon]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/RenatoCarapiaBrunetti/
-[gmail-icon]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:recarapia@gmail.com
-[instagram-icon]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+[email-url]: mailto:recarapia@gmail.com
 [instagram-url]: https://www.instagram.com/renatobrunetti
-[x-icon]: https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white
 [x-url]: https://twitter.com/renatobrunetti
-[alura-icon]: https://img.shields.io/badge/-Alura-gray?style=for-the-badge
-[alura-url]: https://cursos.alura.com.br/user/renatobrunetti
-[alura-lingua-icon]: https://img.shields.io/badge/-Alura%20Lingua-gray?style=for-the-badge
-[alura-lingua-url]: https://cursos.aluralingua.com.br/user/renatobrunetti
-[codesignal-icon]: https://img.shields.io/badge/CodeSignal-1062FB?style=for-the-badge&logo=codesignal&logoColor=white
 [codesignal-url]: https://cursos.alura.com.br/user/renatobrunetti
-[leetcode-icon]: https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06
 [leetcode-url]: https://leetcode.com/RenatoBrunetti/
-[hackerrank-icon]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 [hackerrank-url]: https://www.hackerrank.com/RenatoBrunetti
-[duolingo-icon]: https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white
+[alura-url]: https://cursos.alura.com.br/user/renatobrunettistyle=for-the-badge
+[alura-lingua-url]: https://cursos.aluralingua.com.br/user/renatobrunetti
 [duolingo-url]: https://www.duolingo.com/profile/RenatoBrunetti
