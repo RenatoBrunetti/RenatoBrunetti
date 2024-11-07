@@ -22,8 +22,7 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
   </tr>
 </table>
 
-Please take a look at my LinkedIn page for further professional information.<br>
-[![LinkedIn][linkedin-icon]][linkedin-url]<br><br>
+Please take a look at my LinkedIn page for further professional information. [![LinkedIn][linkedin-icon]][linkedin-url]<br><br>
 
 ## Tech Stuff
 
