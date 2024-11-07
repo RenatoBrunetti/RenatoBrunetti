@@ -8,7 +8,7 @@ I believe in continuous learning as a lifestyle and I love learning about many d
 
 In terms of professional skills, I consider myself a problem-solver with a very strong foundation in Javascript, Typescript, Node.js, React, SQL, and many other technologies, programming languages, frameworks, and tools. I have experience in diverse tech teams and industries covering Backend, Frontend, Data, and DevOps.
 
-<p style="text-align: center;">- ✦ -</p>
+<hr>
 
 I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to empower private practices to thrive by accepting insurance at rewarding terms.<br>
 
@@ -24,7 +24,7 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
 
 <a href="https://linkedin.com/in/RenatoCarapiaBrunetti/">Please take a look at my LinkedIn page for further professional information</a>
 
-<p style="text-align: center;">- ✦ -</p>
+<hr>
 
 <!-- ## Skills
 
