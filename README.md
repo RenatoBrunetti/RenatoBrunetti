@@ -2,22 +2,20 @@ Hello there! 👋<br>
 Glad to see you here.
 
 I'm **Renato Brunetti**, a **Full Stack Developer** from Brazil 🇧🇷.<br>
-I have 12+ years of experience working in software engineering and `I am passionate about making meaningful impacts to people’s lives through technology`. ❤️
+I have 14+ years of experience working in software engineering and `I am passionate about making meaningful impacts to people’s lives through technology`. ❤️
 
-I believe in continuous learning as a lifestyle and I love learning about many different topics, `it keeps me away from boredom and makes me smarter`.<br>
+I believe in continuous learning as a lifestyle and I love learning about many different topics, relating them to each other and to technology as well. `I guess it keeps me away from boredom and allows me to boost my skills at the same time`.<br>
 
-That said, I'd say that I'm an avid learner and a problem-solver with a strong foundation in Javascript, Typescript, Node.js, React, SQL, AWS, and much more. I have experience in diverse tech teams and industries covering Backend, Frontend, and a little bit of DevOps, building scalable products from scratch.<br>
+In terms of professional skills, I consider myself a problem-solver with a very strong foundation in Javascript, Typescript, Node.js, React, SQL, and many other technologies, programming languages, frameworks, and tools. I have experience in diverse tech teams and industries covering Backend, Frontend, Data, and DevOps.
 
 <hr><br>
 
 I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to establish a new standard of affordable and human-centered care, beyond the traditional hospital setting.<br>
 
-<div style="display: flex; gap: 12px; align-items: center; justify-content: center; padding: 8px; border: dashed 1px;">
-  <img src="./zaya-care-logo.jpg" width=75>
-  <p style="margin: 0; padding: 6px;">
-    Zaya champions the voices of private practices in an industry dominated by large health conglomerates and growing administrative overhead.
-  </p>
-</div><br>
+| ![Zaya](zaya-care-logo.jpg) | Zaya champions the voices of private practices in an industry dominated by large health conglomerates and growing administrative overhead. |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<br>
 
 Please take a look at my LinkedIn page for further professional information.<br>
 [![LinkedIn][linkedin-icon]][linkedin-url]<br>
