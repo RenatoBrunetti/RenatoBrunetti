@@ -22,10 +22,7 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
   </tr>
 </table>
 
-<a href="" style="margin: 0; padding: 0; display: block; padding: 2px; background-color: #0e76a8; color: #ffffff; text-align: center; outline: none;">Please take a look at my LinkedIn page for further professional information.</a><br>
-
-<!--
-[![LinkedIn][linkedin-icon]][linkedin-url]<br><br> -->
+[Please take a look at my LinkedIn page for further professional information.](https://linkedin.com/in/RenatoCarapiaBrunetti/)
 
 ## Tech Stuff
 
