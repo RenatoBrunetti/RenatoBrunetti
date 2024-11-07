@@ -8,11 +8,16 @@ I believe in continuous learning as a lifestyle and I love learning about many d
 
 That said, I'd say that I'm an avid learner and a problem-solver with a strong foundation in Javascript, Typescript, Node.js, React, SQL, AWS, and much more. I have experience in diverse tech teams and industries covering Backend, Frontend, and a little bit of DevOps, building scalable products from scratch.<br>
 
-## Professional
+<hr><br>
 
-![Zaya](./zaya.jpg)
+I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to establish a new standard of affordable and human-centered care, beyond the traditional hospital setting.<br>
 
-I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to establish a new standard of affordable and human-centered care, beyond the traditional hospital setting. 🏥<br>
+<div style="display: flex; gap: 12px; align-items: center; justify-content: center; padding: 8px; border: dashed 1px;">
+  <img src="./zaya-care-logo.jpg" width=75>
+  <p style="margin: 0; padding: 6px;">
+    Zaya champions the voices of private practices in an industry dominated by large health conglomerates and growing administrative overhead.
+  </p>
+</div><br>
 
 Please take a look at my LinkedIn page for further professional information.<br>
 [![LinkedIn][linkedin-icon]][linkedin-url]<br>
