@@ -15,10 +15,7 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
 <table style="border-collapse:collapse;">
   <tr>
     <td><img src="./zaya-care-logo.jpg" /></td>
-    <td>Zaya champions the voices of private practices in an industry dominated by large health conglomerates and growing administrative overhead.</td>
-  </tr>
-  <tr>
-    <td colspan="2">Our mission is to establish a new standard of affordable and whole-body care, beyond the traditional hospital setting. We empower independently-owned practices to accept and work with insurance in a profitable way, starting with Dietitians, Physical Therapists, Occupational Therapists and Acupuncturists.</td>
+    <td>Zaya champions the voices of private practices in an industry dominated by large health conglomerates and growing administrative overhead.<br><br>Our mission is to establish a new standard of affordable and whole-body care, beyond the traditional hospital setting. We empower independently-owned practices to accept and work with insurance in a profitable way, starting with Dietitians, Physical Therapists, Occupational Therapists and Acupuncturists.</td>
   </tr>
 </table>
 <br>
