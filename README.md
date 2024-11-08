@@ -65,7 +65,7 @@ How about DevOps and Cloud Services?<br>
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white)
 
-Other usefull stuff:<br>
+Other useful stuff:<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
