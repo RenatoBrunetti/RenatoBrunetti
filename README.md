@@ -10,7 +10,7 @@ In terms of professional skills, I consider myself a problem-solver with a very 
 
 <hr>
 
-I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to empower private practices to thrive by accepting insurance at rewarding terms.<br><br>
+I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to empower private practices to thrive by accepting insurance at rewarding terms.<br>
 
 <table style="border-collapse:collapse;">
   <tr>
@@ -20,13 +20,13 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
   <tr>
     <td colspan="2">Our mission is to establish a new standard of affordable and whole-body care, beyond the traditional hospital setting. We empower independently-owned practices to accept and work with insurance in a profitable way, starting with Dietitians, Physical Therapists, Occupational Therapists and Acupuncturists.</td>
   </tr>
-</table><br>
+</table>
 
 <a href="https://linkedin.com/in/RenatoCarapiaBrunetti/">Please take a look at my LinkedIn page for further professional information</a>
 
 <hr>
 
-### Tech Stack:
+### ★ Tech Stack:
 
 I mostly work with **JavaScript** + **TypeScript** as my main programming language, specifically in the **Node.js** engine, however, I also have experience working with **Python** and **PHP**.<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -37,6 +37,7 @@ I mostly work with **JavaScript** + **TypeScript** as my main programming langua
 ![Express.js](https://img.shields.io/badge/Express.js-ffffff.svg?logo=express&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
+![Fastify](https://img.shields.io/badge/Fastify-ffffff?logo=fastify&logoColor=black)
 
 I've been working with some different frameworks in the frontend, depending on each project, but in general, it's mostly with **React.js**, **Next.js**, **Vite.js**, **SASS**, **Tailwind**, and **Expo**.<br>
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -66,16 +67,35 @@ How about DevOps and Cloud Services?<br>
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white)
 
 Other useful stuff:<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?logo=SONARLINT&logoColor=white)
 
 <hr>
 
+### ★ Open Source Initiatives
+
+> [BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)
+
+<hr>
+
+### ★ GitHub Stats
+
+<table style="border-collapse:collapse;">
+  <tr>
+    <td align="center"><img src ="https://github-readme-stats.vercel.app/api?username=renatobrunetti&theme=dark&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs&bg_color=00000000"></td>
+    <td align="center"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobrunetti&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000&hide=ejs&exclude_repo=my-study-notes"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src ="https://github-readme-streak-stats.herokuapp.com/?user=renatobrunetti&theme=dark&hide_border=true&background=00000000"></td>
+  </tr>
+</table>
+
 <!-- ## Skills
+
+![GitHub](https://img.shields.io/badge/github-121011.svg?logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-0047B3.svg?logo=bitbucket&logoColor=white)
 
 <hr>
 
