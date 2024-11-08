@@ -94,26 +94,26 @@ Other useful stuff:
 
 ### ★   Open Source Initiatives
 
-> [BrasilAPI](brasilapi-url) → Vamos transformar o Brasil em uma API?
+> [BrasilAPI](https://github.com/BrasilAPI/BrasilAPI) → Vamos transformar o Brasil em uma API?
 
 <hr>
 
 ### ★   Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](email-url)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin-url)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](instagram-url)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](x-url)
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:recarapia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/RenatoCarapiaBrunetti)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/renatobrunetti)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/renatobrunetti)
 
 <hr>
 
 ### ★   Learning & Challenges
 
-[![Codesignal](https://img.shields.io/badge/Codesignal-ffffff?logo=codesignal&logoColor=1062fb)](codesignal-url)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-0e141e?logo=hackerrank)](hackerrank-url)
-[![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=leetcode)](leetcode-url)<br>
-[![Alura](https://img.shields.io/badge/Alura-093364?logo=&logoColor=white)](alura-url)
-[![Duolingo](https://img.shields.io/badge/Duolingo-ffffff?logo=duolingo)](duolingo-url)
+[![Codesignal](https://img.shields.io/badge/Codesignal-ffffff?logo=codesignal&logoColor=1062fb)](<[codesignal-url](https://cursos.alura.com.br/user/renatobrunetti)>)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-0e141e?logo=hackerrank)](https://www.hackerrank.com/RenatoBrunetti)
+[![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=leetcode)](https://leetcode.com/RenatoBrunetti/)<br>
+[![Alura](https://img.shields.io/badge/Alura-093364?logo=&logoColor=white)](https://cursos.alura.com.br/user/renatobrunetti)
+[![Duolingo](https://img.shields.io/badge/Duolingo-ffffff?logo=duolingo)](https://www.duolingo.com/profile/RenatoBrunetti)
 
 <hr>
 
@@ -128,17 +128,3 @@ Other useful stuff:
     <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=renatobrunetti&theme=dark&hide_border=true&background=00000000"></td>
   </tr>
 </table>
-
-<!-- Links -->
-
-[brasilapi-url]: https://github.com/BrasilAPI/BrasilAPI
-[linkedin-url]: https://linkedin.com/in/RenatoCarapiaBrunetti/
-[email-url]: mailto:recarapia@gmail.com
-[instagram-url]: https://www.instagram.com/renatobrunetti
-[x-url]: https://twitter.com/renatobrunetti
-[codesignal-url]: https://cursos.alura.com.br/user/renatobrunetti
-[leetcode-url]: https://leetcode.com/RenatoBrunetti/
-[hackerrank-url]: https://www.hackerrank.com/RenatoBrunetti
-[alura-url]: https://cursos.alura.com.br/user/renatobrunettistyle=for-the-badge
-[alura-lingua-url]: https://cursos.aluralingua.com.br/user/renatobrunetti
-[duolingo-url]: https://www.duolingo.com/profile/RenatoBrunetti
