@@ -28,7 +28,8 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
 
 ### ★ Tech Stack:
 
-I mostly work with **JavaScript** + **TypeScript** as my main programming language, specifically in the **Node.js** engine, however, I also have experience working with **Python** and **PHP**.<br>
+I mostly work with **JavaScript** + **TypeScript** as my main programming language, specifically in the **Node.js** engine, however, I also have experience working with **Python** and **PHP**.
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
@@ -38,24 +39,30 @@ I mostly work with **JavaScript** + **TypeScript** as my main programming langua
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
 ![Fastify](https://img.shields.io/badge/Fastify-ffffff?logo=fastify&logoColor=black)
+<br><br>
 
-I've been working with some different frameworks in the frontend, depending on each project, but in general, it's mostly with **React.js**, **Next.js**, **Vite.js**, **SASS**, **Tailwind**, and **Expo**.<br>
+I've been working with some different frameworks in the frontend, depending on each project, but in general, it's mostly with **React.js**, **Next.js**, **Vite.js**, **SASS**, **Tailwind**, and **Expo**.
+
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Vitejs](https://img.shields.io/badge/Vite%20js-ffffff?logo=vite)
 ![SASS](https://img.shields.io/badge/SASS-cc6699?logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?logo=tailwindcss)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?logo=expo)
+<br><br>
 
-Talking about data, I've been working mostly with **PostgresSQL** and **Prisma**, but I also have experience working with **MySQL**, **SQLite**, **Redis** and **MongoDB**.<br>
+Talking about data, I've been working mostly with **PostgresSQL** and **Prisma**, but I also have experience working with **MySQL**, **SQLite**, **Redis** and **MongoDB**.
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=prisma)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-044a64?logo=sqlite)
 ![Redis](https://img.shields.io/badge/Redis-ffffff?logo=redis)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?logo=mongodb)
+<br><br>
 
-How about DevOps and Cloud Services?<br>
+How about DevOps and Cloud Services?
+
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-ffffff?logo=jenkins&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ffffff?logo=githubactions)
@@ -65,12 +72,15 @@ How about DevOps and Cloud Services?<br>
 ![Amazon AWS](https://img.shields.io/badge/AWS-141f2e?logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white)
+<br><br>
 
-Other useful stuff:<br>
+Other useful stuff:
+
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?logo=SONARLINT&logoColor=white)
+<br>
 
 <hr>
 
