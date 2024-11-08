@@ -94,11 +94,11 @@ Other useful stuff:
 
 <table style="border-collapse:collapse;">
   <tr>
-    <td align="center"><img src ="https://github-readme-stats.vercel.app/api?username=renatobrunetti&theme=dark&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs&bg_color=00000000"></td>
-    <td align="center"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobrunetti&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000&hide=ejs&exclude_repo=my-study-notes"></td>
+    <td align="center"><img width="85%" src="https://github-readme-stats.vercel.app/api?username=renatobrunetti&theme=dark&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs&bg_color=00000000"></td>
+    <td align="center"><img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobrunetti&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000&hide=ejs&exclude_repo=my-study-notes"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src ="https://github-readme-streak-stats.herokuapp.com/?user=renatobrunetti&theme=dark&hide_border=true&background=00000000"></td>
+    <td colspan="2" align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=renatobrunetti&theme=dark&hide_border=true&background=00000000"></td>
   </tr>
 </table>
 
