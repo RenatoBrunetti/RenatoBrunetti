@@ -66,7 +66,8 @@ Talking about data, I've been working mostly with **PostgresSQL** and **Prisma**
 ![Sequelize](https://img.shields.io/badge/Sequelize-ffffff?logo=sequelize)
 <br><br>
 
-How about DevOps and Cloud Services?
+In DevOps and Cloud Services, I've been working with many different frameworks, tools, and services, and I don't think I have a specific group of favorites, but these are the most used.
+In addition, this is a topic that I've been mostly improving nowadays.
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-ffffff?logo=jenkins&logoColor=black)
@@ -80,7 +81,7 @@ How about DevOps and Cloud Services?
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white)
 <br><br>
 
-Other useful stuff:
+Here are some other interesting things.
 
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?logo=github&logoColor=white)
