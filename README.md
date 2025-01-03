@@ -114,6 +114,7 @@ Here are some other interesting things.
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-0e141e?logo=hackerrank)](https://www.hackerrank.com/RenatoBrunetti)
 [![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=leetcode)](https://leetcode.com/RenatoBrunetti/)<br>
 [![Alura](https://img.shields.io/badge/Alura-093364?logo=&logoColor=white)](https://cursos.alura.com.br/user/renatobrunetti)
+[![Roadmap](https://img.shields.io/badge/Roadmap-0f172a?logo=Roadmap.sh)](https://roadmap.sh/u/renatobrunetti)
 [![Duolingo](https://img.shields.io/badge/Duolingo-ffffff?logo=duolingo)](https://www.duolingo.com/profile/RenatoBrunetti)
 
 <hr>
