@@ -2,19 +2,23 @@ Hello there! 👋<br>
 Glad to see you here.
 
 I'm **Renato Brunetti**, a **Full Stack Developer** from Brazil 🇧🇷.<br>
-I have 14+ years of experience working in software engineering and `I am passionate about making meaningful impacts to people’s lives through technology`. ❤️
+I have 14+ years of experience working in software development and `I am passionate about making meaningful impacts to people’s lives through technology`. ❤️
 
 I believe in continuous learning as a lifestyle and I love learning about many different topics, relating them to each other and to technology as well. `I guess it keeps me away from boredom and allows me to boost my skills at the same time`.<br>
 
 In terms of professional skills, I consider myself a problem-solver with a very strong foundation in Javascript, Typescript, Node.js, React, SQL, and many other technologies, programming languages, frameworks, and tools. I have experience in diverse tech teams and industries covering Backend, Frontend, Data, and DevOps.
 
+👨🏻‍🎓 **I'm currently studying for a postgraduate degree in full-stack development at [FIAP](https://postech.fiap.com.br/curso/full-stack-development) college.**
+
 <hr>
+
+### ★   Professional
 
 I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to empower private practices to thrive by accepting insurance at rewarding terms.<br>
 
 <table style="border-collapse:collapse;">
   <tr>
-    <td><img src="./zaya-care-logo.jpg" width=80 /></td>
+    <td width=80 ><img src="./assets/zaya-care-logo.jpg" width=80 /></td>
     <td>Zaya champions the voices of private practices in an industry dominated by large health conglomerates and growing administrative overhead.</td>
   </tr>
   <tr>
@@ -23,6 +27,17 @@ I'm currently working at [Zaya Care](https://www.zayacare.com) with a mission to
 </table>
 
 <a href="https://linkedin.com/in/RenatoCarapiaBrunetti/">Please take a look at my LinkedIn page for further professional information</a>
+
+<hr>
+
+### ★   Projects
+
+<table style="border-collapse:collapse;">
+  <tr>
+    <td width=80 ><img src="./assets/brunetti-gorup-logo.jpg" width=80 /></td>
+    <td><a href="https://www.brunetti.dev" target="_blank">Brunetti Group</a> is a side project created by me and my brother <a href="https://github.com/fcbrunetti" target="_blank">Fabio Brunetti</a> that is focused on testing and sharing new technologies and services for software development.</td>
+  </tr>
+</table>
 
 <hr>
 
