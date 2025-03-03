@@ -116,10 +116,12 @@ Here are some other interesting things.
 
 ### ★   Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-C71610?logo=gmail&logoColor=white)](mailto:recarapia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/RenatoCarapiaBrunetti)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/renatobrunetti)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/renatobrunetti)
+
+Portfolio: [renato.brunetti.dev](https://renato.brunetti.dev)<br>
+E-mail: [renato@brunetti.dev](mailto:renato@brunetti.dev)
 
 <hr>
 
